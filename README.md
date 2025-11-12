@@ -10,7 +10,7 @@
 
 ## Мои навыки
 - Языки программирования: Python, Swift, JavaScript, Java  
-- Технологии и инструменты: React, SQL, PostgreSQL
+- Технологии и инструменты: React, SQL, PostgreSQL, CSS, HTML, SCSS, Redis
 - Работа с данными, финансовый анализ, веб-разработка  
 
 ## Контакты
