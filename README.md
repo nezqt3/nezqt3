@@ -24,7 +24,7 @@ Full-stack / Backend разработчик из Москвы.
 
 ---
 
-# 🏆 Опыт и достижения
+# Опыт и достижения
 
 * 🥇 Победитель всероссийского хакатона от MAX
 * 🎓 Разрабатываю платформу для объединения сервисов университета
@@ -34,7 +34,7 @@ Full-stack / Backend разработчик из Москвы.
 
 ---
 
-# 🛠 Технологии
+# Технологии
 
 ## Backend
 
@@ -60,7 +60,7 @@ Full-stack / Backend разработчик из Москвы.
 
 ---
 
-# 📂 Основные проекты
+# Основные проекты
 
 ## 🎓 Доступный вуз
 
@@ -99,7 +99,7 @@ Full-stack / Backend разработчик из Москвы.
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nezqt3\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
@@ -109,14 +109,14 @@ Full-stack / Backend разработчик из Москвы.
 
 ---
 
-# 📫 Контакты
+# Контакты
 
 * Telegram: https://t.me/nezqt3
 * GitHub: https://github.com/nezqt3
 
 ---
 
-# 💡 Сейчас изучаю
+# Сейчас изучаю
 
 * highload backend systems;
 * distributed systems;
@@ -127,7 +127,7 @@ Full-stack / Backend разработчик из Москвы.
 
 ---
 
-# ⚡ Принципы разработки
+# Принципы разработки
 
 * продукт важнее «просто кода»;
 * архитектура должна масштабироваться;
