@@ -1,6 +1,6 @@
 # 👋 Привет, я Денис
 
-Full-stack / Backend разработчик из Москвы.
+Full-stack / Backend / Frontend разработчик из Москвы.
 Создаю цифровые продукты, backend-системы и сервисы для университетской среды с упором на масштабируемость, UX и интеграцию разных платформ в единую экосистему.
 
 Сейчас развиваю продукты в направлениях:
@@ -70,7 +70,7 @@ Full-stack / Backend разработчик из Москвы.
 * снижение сложности взаимодействия с сервисами;
 * быстрый доступ к ключевым функциям.
 
-Ссылка: https://lk.fa.ru/bot
+[Открыть платформу](https://lk.fa.ru/bot)
 
 ---
 
@@ -89,22 +89,13 @@ Full-stack / Backend разработчик из Москвы.
 
 минимизация времени получения нужной информации пользователем.
 
-Ссылка: https://t.me/FinancialUniversityBot
-
----
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nezqt3\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nezqt3\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nezqt3\&layout=compact\&theme=tokyonight\&hide_border=true)
+[Открыть платформу](https://t.me/FinancialUniversityBot)
 
 ---
 
 # Контакты
 
+* Email: dalekseenko8@gmail.com
 * Telegram: https://t.me/nezqt3
 * GitHub: https://github.com/nezqt3
 
