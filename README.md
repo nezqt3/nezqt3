@@ -43,17 +43,17 @@
 | [🛡️ Anti-Fraud Platform](https://github.com/nezqt3/ItOne_hackathon) | Full-stack прототип мониторинга транзакций: правила, очередь обработки, уведомления и дашборды. | Django · PostgreSQL · Redis · Prometheus · Grafana |
 | [🚆 Locomotive Depot RAG Assistant](https://github.com/nezqt3/Locomotive-Depot-RAG-Assistant) | RAG-ассистент для технической поддержки ремонтного персонала локомотивных депо — кейс АО «Желдорреммаш». | React · FastAPI · ChromaDB · Local LLM |
 | [🤖 Machine Eyes Check](https://github.com/nezqt3/machine-eyes-check) | Локальный Computer Vision-инструмент, определяющий присутствие нескольких людей перед экраном. | Python · Computer Vision |
-| [🍎 macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) | Нативное приложение в menu bar: поиск группы и актуальное расписание из внешнего API. | Swift · SwiftUI · macOS |
+| [NefteTrade](https://transgarant24.ru/) | Full-stack маркетплейс нефтепродуктов для компании из Ростова-на-Дону — аналог Avito для нефтяного рынка. | React · TypeScript · Node.js · Socket.IO · Redis |
 
 <details>
-<summary><strong>Больше frontend-проектов</strong></summary>
+<summary><strong>Ещё продукты и frontend-проекты</strong></summary>
 
 <br>
 
 - [Ghost404 Frontend](https://github.com/nezqt3/Ghost404Frontend) — Telegram Mini App: заказы, бонусы и реферальная программа;
 - [Automate](https://github.com/nezqt3/Automate) — интерактивный TypeScript/React-лендинг сервиса автоматизации бизнеса;
 - [Scentury](https://github.com/nezqt3/Scentury) — адаптивный React-лендинг бренда нишевой парфюмерии;
-- [Locomotive Depot RAG Assistant](https://github.com/nezqt3/Locomotive-Depot-RAG-Assistant) — мой вклад в команде: frontend приложения, авторизация и интерфейс диалогов.
+- [🍎 macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) — нативное приложение в menu bar: поиск группы и актуальное расписание из внешнего API.
 
 </details>
 
