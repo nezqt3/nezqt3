@@ -1,6 +1,6 @@
 <div align="center">
 
-# Денис Алексеенко
+# Алексеенко Денис
 
 ### Full-stack Engineer · Backend Systems · University Digital Products
 
