@@ -102,5 +102,7 @@ Full-stack / Backend / Frontend разработчик из Москвы.
 * Email: dalekseenko8@gmail.com
 * Telegram: https://t.me/nezqt3
 * GitHub: https://github.com/nezqt3
+* LinkedIn: www.linkedin.com/in/denis-alekseenko-88312a426
+* Сетка: https://set.ki/TK99pmr
 
 ---
