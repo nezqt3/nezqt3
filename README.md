@@ -99,10 +99,10 @@ Full-stack / Backend / Frontend разработчик из Москвы.
 
 # Контакты
 
-- Email: <a href="mailto:dalekseenko8@gmail.com" target="_blank">dalekseenko8@gmail.com</a>
-- Telegram: <a href="https://t.me/nezqt3" target="_blank">@nezqt3</a>
-- GitHub: <a href="https://github.com/nezqt3" target="_blank">github.com/nezqt3</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/denis-alekseenko-88312a426" target="_blank">linkedin.com/in/denis-alekseenko-88312a426</a>
-- Сетка: <a href="https://set.ki/TK99pmr" target="_blank">set.ki/TK99pmr</a>
+- [Email](mailto:dalekseenko8@gmail.com)
+- [Telegram](https://t.me/nezqt3)
+- [GitHub](https://github.com/nezqt3)
+- [LinkedIn](https://www.linkedin.com/in/denis-alekseenko-88312a426)
+- [Сетка](https://set.ki/TK99pmr)
 
 ---
