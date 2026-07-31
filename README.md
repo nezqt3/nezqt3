@@ -1,47 +1,83 @@
-# 👋 Привет, я Денис
+<div align="center">
 
-Full-stack / Backend / Frontend разработчик из Москвы.
-Создаю цифровые продукты, backend-системы и сервисы для университетской среды с упором на масштабируемость, UX и интеграцию разных платформ в единую экосистему.
+# Денис Алексеенко
 
-Сейчас развиваю продукты в направлениях:
+### Full-stack Engineer · Backend Systems · University Digital Products
 
-* университетские сервисы и WebApp платформы;
-* аналитические системы и обработка событий;
-* backend/frontend архитектура;
-* AI/RAG и automation решения.
+Создаю продукты, в которых сходятся backend, интерфейсы, аналитика и интеграции:
+от сервисов для университетской среды до AI/RAG и automation-решений.
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezqt3)
+[![Email](https://img.shields.io/badge/Email-Связаться-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalekseenko8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-alekseenko-88312a426)
+[![Setka](https://img.shields.io/badge/Сетка-Connect-111111?style=for-the-badge)](https://set.ki/TK99pmr)
 
-# Опыт и достижения
+</div>
 
-* 🥇 Победитель всероссийского хакатона от MAX
-* 🎓 Разрабатываю платформу для объединения сервисов университета
-* 📈 Создал веб-приложение с аудиторией ~15 000 пользователей в месяц
-* ⚙️ Проектирую backend-сервисы и интеграционные решения
-* 📍 Москва / удалённо / гибрид
+## Product-minded engineering
 
----
+Я не ограничиваюсь отдельным frontend или API: проектирую путь от пользовательского
+сценария и модели данных до интеграций, наблюдаемости и деплоя. Сейчас развиваю
+университетские сервисы в экосистеме [ИТС Финуниверситета](https://github.com/FinITC),
+аналитические системы и AI-инструменты.
 
-# Технологии
+| Фокус | Что делаю |
+|---|---|
+| **University Tech** | WebApp-платформы, расписание, единая точка входа для студентов |
+| **Backend & Data** | API, интеграции, очереди, события, PostgreSQL и Redis |
+| **AI & Automation** | RAG, локальные LLM, Computer Vision, автоматизация процессов |
+| **Frontend** | React/TypeScript-интерфейсы с фокусом на UX и понятные сценарии |
 
-## Backend
+## В цифрах
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+| 🥇 | 🥉 | 📈 | 🎓 |
+|---|---|---|---|
+| Победитель всероссийского хакатона от MAX | 3-е место на хакатоне РУТ МИИТ | ~15 000 пользователей в месяц у сервиса расписания | Разрабатываю сервисы для университетской экосистемы |
 
-## Frontend
+## Избранные проекты
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+| Проект | Задача и результат | Роль / стек |
+|---|---|---|
+| [🎓 Доступный вуз](https://lk.fa.ru/bot) | Единый интерфейс университетских сервисов: интеграции, API, аналитика действий и архитектура для масштабирования на новые вузы. | Product / Full-stack · WebApp · API · Analytics |
+| [📅 Сервис расписания](https://t.me/FinancialUniversityBot) | Быстрый доступ к расписанию для аудитории около **15k пользователей в месяц**. | Product / Full-stack · UX · Data loading |
+| [🛡️ Anti-Fraud Platform](https://github.com/nezqt3/ItOne_hackathon) | Full-stack прототип мониторинга транзакций: правила, очередь обработки, уведомления и дашборды. | Django · PostgreSQL · Redis · Prometheus · Grafana |
+| [🚆 Locomotive Depot RAG Assistant](https://github.com/nezqt3/Locomotive-Depot-RAG-Assistant) | RAG-ассистент для технической поддержки ремонтного персонала локомотивных депо — кейс АО «Желдорреммаш». | React · FastAPI · ChromaDB · Local LLM |
+| [🤖 Machine Eyes Check](https://github.com/nezqt3/machine-eyes-check) | Локальный Computer Vision-инструмент, определяющий присутствие нескольких людей перед экраном. | Python · Computer Vision |
+| [🍎 macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) | Нативное приложение в menu bar: поиск группы и актуальное расписание из внешнего API. | Swift · SwiftUI · macOS |
 
-## Infrastructure & Analytics
+<details>
+<summary><strong>Больше frontend-проектов</strong></summary>
+
+<br>
+
+- [Ghost404 Frontend](https://github.com/nezqt3/Ghost404Frontend) — Telegram Mini App: заказы, бонусы и реферальная программа;
+- [Automate](https://github.com/nezqt3/Automate) — интерактивный TypeScript/React-лендинг сервиса автоматизации бизнеса;
+- [Scentury](https://github.com/nezqt3/Scentury) — адаптивный React-лендинг бренда нишевой парфюмерии;
+- [Locomotive Depot RAG Assistant](https://github.com/nezqt3/Locomotive-Depot-RAG-Assistant) — мой вклад в команде: frontend приложения, авторизация и интерфейс диалогов.
+
+</details>
+
+## Рабочий стек
+
+**Backend & AI**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Data, infrastructure & observability**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -49,60 +85,18 @@ Full-stack / Backend / Frontend разработчик из Москвы.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+## Сейчас открыт к
 
-# Основные проекты
+- backend и full-stack задачам;
+- разработке университетских и внутренних сервисов;
+- AI/RAG, аналитическим и automation-продуктам;
+- удалённому, гибридному формату и проектной работе из Москвы.
 
-## 🎓 Доступный вуз
+## Контакты
 
-Платформа для объединения сервисов университета в едином интерфейсе.
+**Лучший способ связаться — [Telegram](https://t.me/nezqt3).**
 
-### Что внутри:
-
-* WebApp архитектура;
-* интеграции с внешними системами;
-* backend API;
-* аналитика пользовательских действий;
-* масштабируемая архитектура для подключения новых вузов.
-
-### Фокус продукта:
-
-* единая точка входа для студентов;
-* снижение сложности взаимодействия с сервисами;
-* быстрый доступ к ключевым функциям.
-
-[Открыть платформу](https://lk.fa.ru/bot)
-
----
-
-## 📅 Сервис расписания
-
-Веб-приложение для просмотра расписания с аудиторией ~15k пользователей в месяц.
-
-### Реализовано:
-
-* быстрый поиск;
-* оптимизированная загрузка данных;
-* адаптивный интерфейс;
-* удобная навигация.
-
-### Продуктовый акцент:
-
-минимизация времени получения нужной информации пользователем.
-
-[Открыть платформу](https://t.me/FinancialUniversityBot)
-
----
-
-# Контакты
-
-- [Email](mailto:dalekseenko8@gmail.com)
-- [Telegram](https://t.me/nezqt3)
-- [GitHub](https://github.com/nezqt3)
-- [LinkedIn](https://www.linkedin.com/in/denis-alekseenko-88312a426)
-- [Сетка](https://set.ki/TK99pmr)
-
----
+[Email](mailto:dalekseenko8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/denis-alekseenko-88312a426) · [Сетка](https://set.ki/TK99pmr) · [GitHub](https://github.com/nezqt3)
