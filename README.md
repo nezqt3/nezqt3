@@ -39,6 +39,7 @@
 | Проект | Задача и результат | Роль / стек |
 |---|---|---|
 | [🎓 Доступный вуз](https://lk.fa.ru/bot) | Единый интерфейс университетских сервисов: интеграции, API, аналитика действий и архитектура для масштабирования на новые вузы. | Product / Frontend · WebApp · API · Analytics |
+| [🧩 Доступный вуз — UI Kit](https://github.com/nezqt3/accessible-university-storybook) | Публичная витрина дизайн-системы: документирует компоненты, состояния и интерфейсные паттерны, ускоряющие развитие платформы. [Открыть Storybook →](https://nezqt3.github.io/accessible-university-storybook/) | Frontend · React · TypeScript · Storybook · a11y |
 | [📅 Сервис расписания](https://t.me/FinancialUniversityBot) | Быстрый доступ к расписанию для аудитории около **15k пользователей в месяц**. | Product / Full-stack · UX · Data loading |
 | [🛡️ Anti-Fraud Platform](https://github.com/nezqt3/ItOne_hackathon) | Full-stack прототип мониторинга транзакций: правила, очередь обработки, уведомления и дашборды. | Django · PostgreSQL · Redis · Prometheus · Grafana |
 | [🚆 Locomotive Depot RAG Assistant](https://github.com/nezqt3/Locomotive-Depot-RAG-Assistant) | RAG-ассистент для технической поддержки ремонтного персонала локомотивных депо — кейс АО «Желдорреммаш». | React · FastAPI · ChromaDB · Local LLM |
