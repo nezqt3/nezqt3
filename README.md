@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-alekseenko-88312a426)
 [![Setka](https://img.shields.io/badge/Сетка-Connect-111111?style=for-the-badge)](https://set.ki/TK99pmr)
 </div>
+
 ## Product-minded engineering
 
 Я не ограничиваюсь отдельным frontend или API: проектирую путь от пользовательского
