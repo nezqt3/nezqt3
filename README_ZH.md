@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-主页-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-alekseenko-88312a426)
 [![Setka](https://img.shields.io/badge/Setka-Connect-111111?style=for-the-badge)](https://set.ki/TK99pmr)
 </div>
+
 ## Product-minded engineering
 
 我不局限于单独的 frontend 或 API：我会从用户场景和数据模型出发，
@@ -27,12 +28,15 @@
 | **Backend & Data** | API、集成、队列、事件、PostgreSQL 和 Redis |
 | **AI & Automation** | RAG、本地 LLM、Computer Vision、流程自动化 |
 | **Frontend** | 注重 UX 和清晰用户流程的 React/TypeScript 界面 |
+
 ## 数据概览
 
 | 🥇 | 🥉 | 📈 | 🎓 |
 |---|---|---|---|
 | MAX 全俄黑客松冠军 | RUT MIIT 黑客松第 3 名 | 课程表服务每月约 15,000 名用户 | 为大学生态系统开发服务 |
+
 ## 精选项目
+
 | 项目 | 任务与成果 | 角色 / 技术栈 |
 |---|---|---|
 | [🎓 Accessible University](https://lk.fa.ru/bot) | 大学服务统一入口：课程表、个人资料、通知、集成和行为分析。公开的 frontend 文档展示了产品组件化架构的方法。 **[平台](https://lk.fa.ru/bot) · [仓库](https://github.com/nezqt3/accessible-university-storybook) · [Storybook](https://nezqt3.github.io/accessible-university-storybook/)** | Product / Frontend · React · TypeScript · Storybook · WebApp · API |
@@ -42,6 +46,7 @@
 | [🤖 Machine Eyes Check](https://github.com/nezqt3/machine-eyes-check) | 本地 Computer Vision 工具，用于检测屏幕前是否存在多个人。 | Python · Computer Vision |
 | [🛢️ NefteTrade](https://transgarant24.ru/) | 为顿河畔罗斯托夫的一家公司开发的全栈石油产品交易平台——类似石油市场的 Avito。 | React · TypeScript · Node.js · Socket.IO · Redis |
 <details>
+  
 <summary><strong>更多产品和 frontend 项目</strong></summary>
 
 <br>
@@ -50,23 +55,29 @@
 - [Scentury](https://github.com/nezqt3/Scentury) — 小众香水品牌的响应式 React 落地页；
 - [macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) — 原生 menu bar 应用：班级搜索和来自外部 API 的最新课程表。
 </details>
+
 ## 工作技术栈
 
 **Backend & AI**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 **Data, infrastructure & observability**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,6 +86,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 目前接受
 
 - backend 和 full-stack 任务；
