@@ -1,10 +1,15 @@
-<div align="center">\n\n**Русский** · [English](README_EN.md) · [中文](README_ZH.md)\n\n</div>\n\n<div align="center">
+**Русский** · [English](README_EN.md) · [中文](README_ZH.md)
+
+---
+
+<div align="center">
 
 # Алексеенко Денис
 ### Full-stack Engineer · Backend Systems · University Digital Products
 
 Создаю продукты, в которых сходятся backend, интерфейсы, аналитика и интеграции:
 от сервисов для университетской среды до AI/RAG и automation-решений.
+
 [![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nezqt3)
 [![Email](https://img.shields.io/badge/Email-Связаться-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalekseenko8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-alekseenko-88312a426)
