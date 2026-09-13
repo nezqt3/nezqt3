@@ -51,9 +51,13 @@ analytics systems, and AI tools.
 
 <br>
 - [Ghost404 Frontend](https://github.com/nezqt3/Ghost404Frontend) — Telegram Mini App: orders, bonuses, and referral program;
+
 - [Automate](https://github.com/nezqt3/Automate) — interactive TypeScript/React landing page for a business automation service;
+  
 - [Scentury](https://github.com/nezqt3/Scentury) — responsive React landing page for a niche perfume brand;
+  
 - [macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) — native menu bar app: group search and up-to-date schedule from an external API.
+  
 </details>
 
 ## Working stack
