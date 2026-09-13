@@ -50,10 +50,15 @@
 <summary><strong>更多产品和 frontend 项目</strong></summary>
 
 <br>
+
 - [Ghost404 Frontend](https://github.com/nezqt3/Ghost404Frontend) — Telegram Mini App：订单、奖励和推荐计划；
+  
 - [Automate](https://github.com/nezqt3/Automate) — 商业自动化服务的交互式 TypeScript/React 落地页；
+  
 - [Scentury](https://github.com/nezqt3/Scentury) — 小众香水品牌的响应式 React 落地页；
+  
 - [macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) — 原生 menu bar 应用：班级搜索和来自外部 API 的最新课程表。
+  
 </details>
 
 ## 工作技术栈
