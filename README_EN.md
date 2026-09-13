@@ -50,6 +50,7 @@ analytics systems, and AI tools.
 <summary><strong>More products and frontend projects</strong></summary>
 
 <br>
+
 - [Ghost404 Frontend](https://github.com/nezqt3/Ghost404Frontend) — Telegram Mini App: orders, bonuses, and referral program;
 
 - [Automate](https://github.com/nezqt3/Automate) — interactive TypeScript/React landing page for a business automation service;
