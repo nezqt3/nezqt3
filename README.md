@@ -47,10 +47,15 @@
 <summary><strong>Ещё продукты и frontend-проекты</strong></summary>
 
 <br>
+
 - [Ghost404 Frontend](https://github.com/nezqt3/Ghost404Frontend) — Telegram Mini App: заказы, бонусы и реферальная программа;
+
 - [Automate](https://github.com/nezqt3/Automate) — интерактивный TypeScript/React-лендинг сервиса автоматизации бизнеса;
+  
 - [Scentury](https://github.com/nezqt3/Scentury) — адаптивный React-лендинг бренда нишевой парфюмерии;
+  
 - [macOS Menu Bar Schedule](https://github.com/nezqt3/macOS-MenuBar-Schedule) — нативное приложение в menu bar: поиск группы и актуальное расписание из внешнего API.
+  
 </details>
 
 ## Рабочий стек
